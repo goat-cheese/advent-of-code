@@ -2,9 +2,6 @@ package com.goatcheese;
 
 import com.goatcheese.days.Day1;
 
-import javax.inject.Inject;
-import java.util.Set;
-
 public class AdventOfCode {
 
     public static void main(String[] args) throws Exception {
